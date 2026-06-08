@@ -5,7 +5,7 @@ All weekly work (Week 1 to Week 5) is stored in Google Drive.
 
 Google Drive Link:THE FILE CONSIST OF ALL WEEK  WORK AS PER YOUR REQUIREMENT
 (https://drive.google.com/file/d/1e-k8MHWQJOZrP6PChQqdbLlEskCXzZAm/view?usp=drive_link)
-all image and explanation
+NOTE ALL EXPLANATION ARE IN THE FILE ABOVE THAT FOR WEEK 1 TO 5 ALSO WHEN IT COME TO THAT MINIPROJECT EXPLANATION 
 
 Source Code (Google Colab)
 
