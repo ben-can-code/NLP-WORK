@@ -30,5 +30,5 @@ https://colab.research.google.com/drive/1AvyedwVR5396wVFtvifNuZTdIPeYnSLF?usp=sh
 
 The mini project has been deployed online using Render.
 
-Live Project Link:
+Live Project Link: GIVE IT A FEW SECOND  TO LOAD  THEN YOU CAN VIEW THE PROJECT LIVE
 (https://student-chatbot-brfb.onrender.com/)
