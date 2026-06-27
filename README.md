@@ -82,9 +82,9 @@ https://github.com/ben-can-code/gpt2-text-generator
 https://gpt2-text-generator.onrender.com/
 ---
 
-# WEEK 8 – Mini Project
+# Week 8: Transformer Models and Attention Mechanisms
 
-## NLP Sentiment Analysis Application
+## 
 
 ### Google Colab Link
 
@@ -92,11 +92,11 @@ https://colab.research.google.com/drive/1aKbcUKcWlKaFDG8MrdkXDwpN8uH6ugBg?usp=sh
 
 ### Repository Link
 
-https://github.com/ben-can-code/nlp-sentiment-analysis
+https://github.com/ben-can-code/gpt2-text-generator
 
 ### Live Project Link
 
-https://nlp-sentiment-analysis.onrender.com/
+https://huggingface.co/spaces/Ben325/gpt2-text-generator
 
 ### Features
 
@@ -104,7 +104,7 @@ https://nlp-sentiment-analysis.onrender.com/
 * Positive, Negative, and Neutral classification
 * NLP preprocessing
 * Flask web interface
-* Hosted on Render
+* Hosted on hugging face
 
 ---
 
