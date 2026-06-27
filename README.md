@@ -61,15 +61,7 @@ https://student-chatbot-brfb.onrender.com/
 
 ### Google Colab Link
 
-https://colab.research.google.com/drive/WEEK6_LINK_HERE?usp=sharing
-
-### Topics Covered
-
-* Text preprocessing
-* Tokenization
-* Stop word removal
-* Stemming and Lemmatization
-* Word embeddings introduction
+https://colab.research.google.com/drive/1MV24_C4DSvx_WOmB8SQu2H8UX4iikkvS
 
 ---
 
@@ -79,7 +71,7 @@ https://colab.research.google.com/drive/WEEK6_LINK_HERE?usp=sharing
 
 ### Google Colab Link
 
-https://colab.research.google.com/drive/WEEK7_COLAB_LINK_HERE?usp=sharing
+https://colab.research.google.com/drive/1ddXLfAGfDUTh2PlkR2hCH9Ztg40y3B29?usp=sharing
 
 ### Repository Link
 
@@ -105,7 +97,7 @@ https://gpt2-text-generator.onrender.com/
 
 ### Google Colab Link
 
-https://colab.research.google.com/drive/WEEK8_COLAB_LINK_HERE?usp=sharing
+https://colab.research.google.com/drive/1aKbcUKcWlKaFDG8MrdkXDwpN8uH6ugBg?usp=sharing
 
 ### Repository Link
 
