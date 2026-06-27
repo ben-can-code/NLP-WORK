@@ -15,6 +15,8 @@ NOTE: All explanations are included in the file above for Week 1 to Week 5, incl
 
 All project source code is available in Google Colab.
 
+---
+
 ## WEEK 1
 
 PYTHON SOURCE CODE FOR REVISION AND EXTRA TASK
@@ -46,8 +48,6 @@ https://colab.research.google.com/drive/1AvyedwVR5396wVFtvifNuZTdIPeYnSLF?usp=sh
 
 https://github.com/ben-can-code/miniproject
 
-The mini project has been deployed online using Render.
-
 ### Live Project Link
 
 GIVE IT A FEW SECONDS TO LOAD THEN YOU CAN VIEW THE PROJECT LIVE
@@ -57,10 +57,11 @@ https://student-chatbot-brfb.onrender.com/
 
 # WEEK 6
 
-### NLP Practical Tasks and Exercises
+## NLP Practical Tasks and Exercises
 
-Google Colab Source Code:
-[ADD WEEK 6 COLAB LINK HERE]
+### Google Colab Link
+
+https://colab.research.google.com/drive/WEEK6_LINK_HERE?usp=sharing
 
 ### Topics Covered
 
@@ -74,11 +75,19 @@ Google Colab Source Code:
 
 # WEEK 7 – Mini Project
 
-### GPT-2 Text Generation Application
+## GPT-2 Text Generation Application
+
+### Google Colab Link
+
+https://colab.research.google.com/drive/WEEK7_COLAB_LINK_HERE?usp=sharing
 
 ### Repository Link
 
 https://github.com/ben-can-code/gpt2-text-generator
+
+### Live Project Link
+
+https://gpt2-text-generator.onrender.com/
 
 ### Features
 
@@ -86,33 +95,33 @@ https://github.com/ben-can-code/gpt2-text-generator
 * Generates text continuations using GPT-2
 * Displays generated text
 * Flask backend
-* Hosted using Render
-
-### Live Project Link
-
-https://gpt2-text-generator.onrender.com/
+* Hosted on Render
 
 ---
 
 # WEEK 8 – Mini Project
 
-### NLP Sentiment Analysis Application
+## NLP Sentiment Analysis Application
+
+### Google Colab Link
+
+https://colab.research.google.com/drive/WEEK8_COLAB_LINK_HERE?usp=sharing
 
 ### Repository Link
 
 https://github.com/ben-can-code/nlp-sentiment-analysis
+
+### Live Project Link
+
+https://nlp-sentiment-analysis.onrender.com/
 
 ### Features
 
 * User text sentiment prediction
 * Positive, Negative, and Neutral classification
 * NLP preprocessing
-* Web interface using Flask
-* Hosted using Render
-
-### Live Project Link
-
-https://nlp-sentiment-analysis.onrender.com/
+* Flask web interface
+* Hosted on Render
 
 ---
 
