@@ -80,15 +80,6 @@ https://github.com/ben-can-code/gpt2-text-generator
 ### Live Project Link
 
 https://gpt2-text-generator.onrender.com/
-
-### Features
-
-* Accepts user input
-* Generates text continuations using GPT-2
-* Displays generated text
-* Flask backend
-* Hosted on Render
-
 ---
 
 # WEEK 8 – Mini Project
