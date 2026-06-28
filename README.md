@@ -65,9 +65,7 @@ https://colab.research.google.com/drive/1MV24_C4DSvx_WOmB8SQu2H8UX4iikkvS
 
 ---
 
-# WEEK 7 – Mini Project
-
-## GPT-2 Text Generation Application
+Week 7: Neural Language Models and Deep Learning for NLP
 
 ### Google Colab Link
 
@@ -75,11 +73,11 @@ https://colab.research.google.com/drive/1ddXLfAGfDUTh2PlkR2hCH9Ztg40y3B29?usp=sh
 
 ### Repository Link
 
-https://github.com/ben-can-code/gpt2-text-generator
+https://github.com/ben-can-code/practicaltaskweek7
 
 ### Live Project Link
 
-https://gpt2-text-generator.onrender.com/
+https://small-kilimo-chatbot.onrender.com/
 ---
 
 # Week 8: Transformer Models and Attention Mechanisms
